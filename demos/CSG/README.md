@@ -28,7 +28,7 @@
 
 > We also visualize the matrices as **Fig.4** in paper.
 
-![001](https://github.com/NeverGiveU/NNInterpretation/blob/main/demos/CSG/assets/Gcsg-Wcsg-Wstd-GcsgxWcsg.png)
+![001](https://github.com/NeverGiveU/NNInterpretation/main/demos/CSG/assets/Gcsg-Wcsg-Wstd-GcsgxWcsg.png)
 
 > The implementation is included in **THREE** `*_G.py` files.
 >

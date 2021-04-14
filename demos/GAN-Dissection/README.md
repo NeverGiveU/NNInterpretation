@@ -86,7 +86,7 @@
 >
 > For example, we select `0.png` and we have:
 >
-> ![image](https://github.com/NeverGiveU/NNInterpretation/blob/main/demos/GAN-Dissection/demo/church/img/8.png)![mask](https://github.com/NeverGiveU/NNInterpretation/blob/main/demos/GAN-Dissection/demo/church/mask/8.png).
+> ![image](https://github.com/NeverGiveU/NNInterpretation/main/demos/GAN-Dissection/demo/church/img/8.png)![mask](https://github.com/NeverGiveU/NNInterpretation/main/demos/GAN-Dissection/demo/church/mask/8.png).
 >
 > Load in the images as
 >
@@ -196,7 +196,7 @@
 >
 > **Step 7**: Plot with `plt.show()`.
 >
-> ![result](https://github.com/NeverGiveU/NNInterpretation/blob/main/demos/GAN-Dissection/sample_dissected_results.png)
+> ![result](https://github.com/NeverGiveU/NNInterpretation/main/demos/GAN-Dissection/sample_dissected_results.png)
 >
 > As discussed in the paper, as the important channels of the two headmost trees are "turned off", the obscured shorter trees are shown, while the other objects and semantics keep unchanged.
 
